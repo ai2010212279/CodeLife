@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ai2010212279/CodeLife/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[主页](https://ai2010212279.github.io/CodeLife/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
